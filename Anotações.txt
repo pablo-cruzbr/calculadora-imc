@@ -1,0 +1,12 @@
+
+
+							> > > INTERPRETAÇÃO PROJETO CALCULADORA IMC < < < 
+
+		Validação
+1 - primeira coisa a verificar seria se os campos estão preenchidos:
+
+code: nome, altura, peso: diferente de vazio.
+	(nome.value !== '' && altura !== peso !== '')
+
+
+
